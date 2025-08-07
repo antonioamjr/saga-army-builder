@@ -318,8 +318,8 @@ const createWarriors = (
       shooting: {
         None: 4,
         Bow: 4,
+        HeavyWeapon: 4,
         Crossbow: 3,
-        HeavyWeapon: 3,
         MountedAnimal: 3,
         Flying: 3,
         MountedAnimalCompositeBow: 3,
